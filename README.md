@@ -4,7 +4,7 @@ Back in 2010 I happened to get my first hands-on experience with micro-controlle
 
 ![LedShield](/led_shield.jpg)
 
-This repository holds the archived version of this project. Maybe one day it will be revived once again.
+This repository holds the archived upgraded version of this project. Maybe one day it will be revived once again.
 
 - [Youtube video about it working](https://www.youtube.com/watch?v=3mjBaS8X03o)
 
